@@ -1,7 +1,9 @@
-# simple_chat_app
+# Chat App With Firebase
 
-A new Flutter project.
+Another plain example of a regular chat app, with authentication and conversation screen.
+The app mainly relies on Firebase as a backend service, featuring: Firebase Auth, Firebase Storage and Firebase Messaging.
 
+![Screenshot_Chat_App]()
 ## Getting Started
 
 This project is a starting point for a Flutter application.
