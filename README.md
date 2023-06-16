@@ -3,7 +3,11 @@
 Another plain example of a regular chat app, with authentication and conversation screen.
 The app mainly relies on Firebase as a backend service, featuring: Firebase Auth, Firebase Storage and Firebase Messaging.
 
-![Screenshot_Chat_App]()
+<p float="left">
+  <img src="/asset/screenshots/chat_ss_1.png" width="200" />
+  <img src="/asset/screenshots/chat_ss_2.png" width="200" />
+  <img src="/asset/screenshots/chat_ss_3.png"width="200" />
+</p>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
